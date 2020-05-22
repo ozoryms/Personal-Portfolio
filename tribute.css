@@ -1,0 +1,53 @@
+.image{
+    text-align:center;
+    display: block;
+  }
+  
+  #image{
+          max-width: 1024px;
+          height: auto;
+          margin-left: auto;
+          margin-right: auto;
+          display: block;
+        }
+  
+    #tribute-info{
+     font-family:Segoe UI;
+      display:inline-block;
+      margin: 0px 350px 50px;
+       text-align: justify;
+  }
+  #main{
+      background-color:#e6e6e6;
+  }
+  #title{
+          text-align:center;
+         font-family:Segoe UI;
+         padding-top: 40px;
+        }
+    h3, p {
+    text-align:center;
+    font-family:Segoe UI;
+  }
+  #img-caption{
+       text-align:center;
+       font-family:Segoe UI;
+       padding: 15px;
+       background-color:white;
+       margin-left: auto;
+       margin-right: auto;
+       width:100%
+         Border: none;
+  }
+  
+   #img-div{
+        
+        border-left: 15px solid #e6e6e6; 
+        border-right: 15px solid #e6e6e6;
+        background-color:white;
+        margin-left: auto;
+        margin-right: auto;
+        
+        
+      }
+    
